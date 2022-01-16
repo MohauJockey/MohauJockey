@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohauJockey
-- 👀 I’m interested in HTML, CSS, Bootstrap JavaScript, PHP and SQL
+- 👀 I’m interested in HTML, CSS, Bootstrap, JavaScript, PHP and SQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on software development
 - 📫 You can reach me via email at christianojockey@gmail.com
